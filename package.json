@@ -1,7 +1,7 @@
 {
   "name": "meijia",
   "version": "1.0.0",
-  "description": "1. 编译器：webstrom\r 2. 版本管理工具：git\r 3. 切图：Photoshop\r 4. css预处理：sass\r 5. 前台组件库：antd\r 6. js框架 vue2.0\r 7. 路由：vue-router\r 8. 打包工具：webpack4",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
